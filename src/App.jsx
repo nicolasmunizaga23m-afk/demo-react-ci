@@ -16,7 +16,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Demo React CI CD</h1>
+      <h1>Demo React del equipo</h1>
       <form onSubmit={enviar}>
         <label>
           Nombre
